@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jihoon Shin"
   pronouns         : "he/his"
   bio              : "M.S. student in Computer Science at UTEP, focusing on applying machine learning and meta-learning techniques to develop innovative solutions for interdisciplinary problems."
   location         : "El Paso, TX"
-  employer         : "Red Brick University"
+  employer         : "University of Texas at El Paso"
   uri              : # URL
   email            : "jshin4@miners.utep.edu" 
 
