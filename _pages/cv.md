@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-- **M.S. in Computer Science**, University of Texas at El Paso | El Paso, Texas  
-  *12/2025 (expected)* • GPA: 4.0  
-- **B.S. in Computer Engineering**, Hongik University | Seoul, South Korea  
+- **M.S. in Computer Science**, University of Texas at El Paso | Texas  
+  *12/2025 (expected)*  
+   - GPA: 4.0  
+- **B.S. in Computer Engineering**, Hongik University | South Korea  
   *02/2016*  
 
 Work experience
@@ -21,7 +22,8 @@ Work experience
 - **Graduate Research Assistant**  
   Security and Intelligence Lab (Advisor: Dr. Aritran Piplai), University of Texas at El Paso  
   *09/2024 – Present*  
-  - Research focus: Applying meta-learning techniques to interdisciplinary problems.  
+  - Research focus: Applying meta-learning techniques to interdisciplinary problems.
+  - Highlighted Project – LLM for Healthcare: Developing a local Retrieval-Augmented Generation (RAG) pipeline with a fine-tuned Mistral 7B model for question answering in Alzheimer’s and dementia caregiving.  
 
 - **IT Manager**  
   Hyundai Engineering & Construction (E&C) | Seoul, South Korea  
