@@ -20,14 +20,14 @@ Education
 Work experience
 ======
 - **Mike Loya Graduate Research Fellow**  
-  Mike Loya Center for Innovation and Commerce, University of Texas at El Paso | Texas, U.S.
+  Mike Loya Center for Innovation and Commerce, University of Texas at El Paso | Texas, U.S.  
   *01/2025 – 12/2025*  
   - Managed the center’s website using Cascade CMS, including content updates and structural revisions.
   - Supported entrepreneurship programs and events (e.g., Miners Pitch Competition, Entrepreneur Talks), identified external grant opportunities, and collaborated with the Office of Technology Commercialization and faculty inventors to support innovation and commercialization.  
 
   
 - **Graduate Research Assistant** (Concurrent role)  
-  Security and Intelligence Lab (Advisor: Dr. Aritran Piplai), University of Texas at El Paso | Texas, U.S.
+  Security and Intelligence Lab (Advisor: Dr. Aritran Piplai), University of Texas at El Paso | Texas, U.S.  
   *09/2024 – 12/2025*  
   - Designed and implemented machine learning and meta-learning pipelines to process, model, and analyze large datasets across cybersecurity and healthcare domains.
   - Highlighted Projects:
