@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **M.S. in Computer Science**  
-<img src="/images/UTEP_logo.png" alt="University of Texas at El Paso" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;**University of Texas at El Paso**, Texas, U.S.  
+<img src="/images/UTEP_logo.png" alt="University of Texas at El Paso" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;**University of Texas at El Paso**, Texas, United States  
   *GPA: 4.0*  
   **December 2025**
 
@@ -23,14 +23,14 @@ Education
 Work experience
 ======
 - **Mike Loya Graduate Research Fellow**  
-  <img src="/images/UTEP_logo.png" alt="University of Texas at El Paso" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;**Mike Loya Center for Innovation and Commerce, University of Texas at El Paso** | Texas, U.S.  
+  <img src="/images/UTEP_logo.png" alt="University of Texas at El Paso" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;**Mike Loya Center for Innovation and Commerce, University of Texas at El Paso** | Texas, United States  
   *01/2025 – 12/2025*  
   - Managed the center’s website using Cascade CMS, including content updates and structural revisions.
   - Supported entrepreneurship programs and events (e.g., Miners Pitch Competition, Entrepreneur Talks), identified external grant opportunities, and collaborated with the Office of Technology Commercialization and faculty inventors to support innovation and commercialization.  
 
   
 - **Graduate Research Assistant** (Concurrent role)  
-  <img src="/images/UTEP_logo.png" alt="University of Texas at El Paso" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;**Security and Intelligence Lab** (Advisor: Dr. Aritran Piplai), **University of Texas at El Paso** | Texas, U.S.  
+  <img src="/images/UTEP_logo.png" alt="University of Texas at El Paso" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;**Security and Intelligence Lab** (Advisor: Dr. Aritran Piplai), **University of Texas at El Paso** | Texas, United States  
   *09/2024 – 12/2025*  
   - Designed and implemented machine learning and meta-learning pipelines to process, model, and analyze large datasets across cybersecurity and healthcare domains.
   - Highlighted Projects:
