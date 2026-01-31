@@ -40,7 +40,7 @@ Work experience
     - AI for Counselor Education: Applied ML techniques in mixed-methods research and educational analytics. 
 
 - **IT Manager**  
-  <img src="/images/Hyundai_E&C_logo.png" alt="Hyundai E&C" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;Hyundai Engineering & Construction (E&C) | Seoul, South Korea  
+  <img src="/images/Hyundai_E&C_logo.png" alt="Hyundai E&C" width="27" style="vertical-align:middle; margin-right:6px;">&nbsp;Hyundai Engineering & Construction (E&C) | Seoul, South Korea  
   *06/2021 – 05/2022*  
   - Managed enterprise-wide HR and business systems, coordinating system upgrades, data integrations, and platform alignment across multiple business units.
   - Selected for the HR Task Force Team for IT expertise; evaluated HR systems and data structures and identified optimal enterprise-wide solutions for improved efficiency and scalability.
@@ -48,7 +48,7 @@ Work experience
 
 
 - **Full-Stack Developer & Project Manager**  
-  <img src="/images/Hyundai_AutoEver_logo.png" alt="Hyundai AutoEver" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;Hyundai AutoEver Corp. | Seoul, South Korea  
+  <img src="/images/Hyundai_AutoEver_logo.png" alt="Hyundai AutoEver" width="27" style="vertical-align:middle; margin-right:6px;">&nbsp;Hyundai AutoEver Corp. | Seoul, South Korea  
   *01/2016 – 06/2021*  
   - Served as system administrator for six enterprise systems at Hyundai E&C, providing global technical support and managing C#/.NET web applications, databases, and SQL data extraction for HR, legal, and academic systems.
   - Managed end-to-end HR system operations, including employee data management, attendance and leave tracking, payroll processing, recruitment modules, and performance evaluation systems.
@@ -60,12 +60,12 @@ Work experience
     - Legal Systems Integration (06/2016 – 12/2016)  
 
 - **Intern**  
-  <img src="/images/Hyundai_AutoEver_logo.png" alt="Hyundai AutoEver" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;Hyundai AutoEver Corp. | Seoul, South Korea  
+  <img src="/images/Hyundai_AutoEver_logo.png" alt="Hyundai AutoEver" width="27" style="vertical-align:middle; margin-right:6px;">&nbsp;Hyundai AutoEver Corp. | Seoul, South Korea  
   *07/2015 – 08/2015*  
-  - Improved the Knowledge Management System by adding expert recommendation features for knowledge sharing
+  - Improved the Knowledge Management System by adding expert recommendation features for knowledge sharing.
 
 - **Sergeant (US 8th Army Korean Augmentation To the United States Army)**  
-  <img src="/images/USAG_Yongsan" alt="USAG-Yongsan" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;Information Management Office, HHC, U.S. Army Garrison Yongsan | Seoul, South Korea  
+  <img src="/images/USAG_Yongsan.jpg" alt="USAG-Yongsan" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;Information Management Office, HHC, U.S. Army Garrison Yongsan | Seoul, South Korea  
   *03/2011 – 12/2012*  
   - Served as an Information Technology Specialist (MOS: 25B) at the Information Management Office (IMO), managing U.S. Army Systems in USAG-Yongsan, South Korea, and led a team of 8 soldiers as a Squad Leader. 
   
