@@ -11,11 +11,14 @@ redirect_from:
 
 Education
 ======
-- **M.S. in Computer Science**, University of Texas at El Paso | Texas, U.S.  
-  *12/2025*  
-   - GPA: 4.0  
-- **B.S. in Computer Engineering**, Hongik University | Seoul, South Korea  
-  *02/2016*  
+* **M.S. in Computer Science**  
+<img src="/images/UTEP_logo.png" alt="University of Texas at El Paso" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;**University of Texas at El Paso**, Texas, U.S.  
+  *GPA: 4.0*  
+  **December 2025**
+
+* **B.S. in Computer Engineering**  
+<img src="/images/hongik_university_logo.png" alt="Hongik University" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;**Hongik University**, Seoul, South Korea  
+  **Feburary 2016**
 
 Work experience
 ======
