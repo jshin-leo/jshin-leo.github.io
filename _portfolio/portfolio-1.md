@@ -1,7 +1,6 @@
 ---
 title: "Legal Affairs Systems Integration"
 excerpt: "June 2016 – December 2016"
-date: 2016-12-31  
 collection: portfolio
 ---
 
