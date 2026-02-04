@@ -11,4 +11,4 @@ citation: "Han, E. & Shin, J. (2025). Understanding Artificial Intelligence and 
 ---
 
 **ACES Recognition (December 23, 2025)**  
-Recognized by the Association for Counselor Education and Supervision (ACES) as one of the **most accessed articles of 2025** ([ACES newsletter feature](https://www.multibriefs.com/briefs/ACES/ACES122325.php)). This publication introduces foundational concepts of artificial intelligence and machine learning for counselor education.
+Recognized by the Association for Counselor Education and Supervision (ACES) as one of the **most accessed articles of 2025** (<a href="https://www.multibriefs.com/briefs/ACES/ACES122325.php" target="_blank" rel="noopener noreferrer">ACES newsletter feature</a>). This publication introduces foundational concepts of artificial intelligence and machine learning for counselor education.
