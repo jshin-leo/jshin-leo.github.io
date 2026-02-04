@@ -17,11 +17,8 @@ main:
   - title: "Projects"
     url: /portfolio/
     
-  - title: "CV"
+  - title: "Profile"
     url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
     
   # - title: "Guide"
   #   url: /markdown/
