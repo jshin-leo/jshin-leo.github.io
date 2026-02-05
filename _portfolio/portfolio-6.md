@@ -8,6 +8,7 @@ collection: portfolio
 
 **Organization:** Office of Technology Commercialization (OTC), UTEP  
 **Role:** Graduate Research Fellow / Analyst  
+**Project Period:** September 2025 - November 2025  
 
 **Overview**  
 Conducted an institutional analysis of UTEP’s faculty commercialization ecosystem to identify barriers to research-based spin-off development and propose strategic improvements.  
