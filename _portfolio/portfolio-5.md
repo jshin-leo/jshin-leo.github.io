@@ -8,6 +8,7 @@ collection: portfolio
 
 **Organization:** Mike Loya Center for Innovation and Commerce, UTEP  
 **Role:** Graduate Research Fellow / Mentor  
+**Project Period:** February 2025 – April 2025  
 
 **Overview**  
 Provided hands-on venture mentorship to an early-stage startup focused on product development, business modeling, and competitive positioning within an academic entrepreneurship ecosystem.
