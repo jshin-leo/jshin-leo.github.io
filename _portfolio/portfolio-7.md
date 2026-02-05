@@ -17,5 +17,6 @@ Website: <a href="https://www.utep.edu/research/mike-loya-center-innovation-comm
 **Key Contributions**  
 - Updated website content using **Cascade CMS** to reflect current and upcoming events, ensuring accuracy and consistency across pages.  
 - Reorganized navigation tabs and page structure to better represent MLCIC programs and initiatives.  
-- Created new, dedicated pages for individual events to improve clarity, accessibility, and user navigation.  
+- Created new, dedicated pages for individual events to improve clarity, accessibility, and user navigation, including **Entrepreneurship Kick Off**, **Fuel Your Mindset**, **Entrepreneur Talks**, **Miners’ Pitch Competition**, and **Studio G**.  
+- Transitioned responsibilities to the next web developer by providing hands-on training, documentation, and guidance on content updates, site structure, and Cascade CMS workflows.  
 
