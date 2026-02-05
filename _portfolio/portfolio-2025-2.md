@@ -1,5 +1,5 @@
 ---
-title: "Startup Venture Development & Pitch Mentorship – MeasureMate (MLCIC)"
+title: "Startup Venture Development & Pitch Mentorship – MLCIC"
 excerpt: "University of Texas at El Paso, Spring 2025"
 collection: portfolio
 ---
