@@ -1,6 +1,6 @@
 ---
 title: "Startup Venture Development & Pitch Mentorship – MeasureMate (Mike Loya Graduate Fellow)"
-excerpt: "Spring 2025"
+excerpt: "University of Texas at El Paso, Spring 2025"
 collection: portfolio
 ---
 
