@@ -11,14 +11,15 @@ main:
   - title: "Profile"
     url: /cv/
   
+  - title: "Projects"
+    url: /portfolio/
+  
   - title: "Publications"
     url: /publications/
 
   - title: "Presentations"
     url: /talks/    
-    
-  - title: "Projects"
-    url: /portfolio/
+  
   
     
   # - title: "Guide"
