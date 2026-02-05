@@ -1,10 +1,10 @@
 ---
-title: "Website Content Management & Information Architecture – MLCIC"
+title: "Website Content Management – MLCIC"
 excerpt: "Mike Loya Center for Innovation and Commerce, Spring-Fall 2025"
 collection: portfolio
 ---
 
-### Website Content Management & Information Architecture – MLCIC  
+### Website Content Management – MLCIC  
 
 **Organization:** Mike Loya Center for Innovation and Commerce (MLCIC), UTEP  
 **Role:** Web Developer  
