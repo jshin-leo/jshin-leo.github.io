@@ -74,7 +74,7 @@ Technical Skills
 - **Project & System Support**: Project management, Enterprise content management (Cascade CMS)  
 - **Data & Analytics**: SQL-based data extraction, Data pipeline design, DBMS (Oracle, MS SQL Server)    
 - **Development**: Python, C#, .NET, ASP.NET, JavaScript, Full-stack development  
-- **AI & Machine Learning**: PyTorch, Scikit-Learn, RAG, Prompt engineering, Model fine-tuning, LLMs, MCP
+- **AI & Machine Learning**: PyTorch, Scikit-Learn, RAG, Prompt engineering, Model fine-tuning, LLMs, MCP, Deep Learning, Meta Learning  
 
 Publications
 ======
