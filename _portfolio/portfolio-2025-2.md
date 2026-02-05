@@ -1,12 +1,12 @@
 ---
-title: "Startup Venture Development & Pitch Mentorship – MeasureMate (Mike Loya Graduate Fellow)"
+title: "Startup Venture Development & Pitch Mentorship – MeasureMate (MLCIC)"
 excerpt: "University of Texas at El Paso, Spring 2025"
 collection: portfolio
 ---
 
 ### Startup Venture Development & Pitch Mentorship – MeasureMate  
 
-**Organization:** Mike Loya Center for Innovation and Commerce, UTEP  
+**Organization:** Mike Loya Center for Innovation and Commerce (MLCIC), UTEP  
 **Role:** Graduate Research Fellow / Mentor  
 **Project Period:** February 2025 – April 2025  
 
