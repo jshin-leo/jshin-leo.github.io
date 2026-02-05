@@ -8,6 +8,7 @@ collection: portfolio
 
 **Organization:** Hyundai Engineering & Construction  
 **Role:** HR Task Force Team Member  
+**Project Period:** June 2021 – May 2022   
 
 **Overview**   
 Contributed to an enterprise-wide initiative to evaluate and modernize HR information systems, with a focus on data architecture, operational efficiency, and long-term scalability.  
