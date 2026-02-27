@@ -88,7 +88,7 @@ Presentations
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Awards, Certificates, and Fellowships
+Awards & Fellowships  
 ======
 - **Graduate School Travel Grant**, University of Texas at El Paso  
   *10/2025*  
@@ -99,8 +99,10 @@ Awards, Certificates, and Fellowships
   - Awarded $18,000 Graduate Research Fellowship to support research on emerging technologies, including data analysis and patent evaluation.  
   - Participated in entrepreneurship workshops and supported events such as the Miners Pitch Competition.  
 
-- **Engineer Information Processing**, National Technical Qualification, South Korea  
-  *10/2015*  
-
 - **The Army Commendation Medal, Certificate of Appreciation**, The United States Army  
   *12/2012*  
+
+Professional Certifications  
+======
+- **Engineer Information Processing**, National Technical Qualification, South Korea  
+  *10/2015*  
