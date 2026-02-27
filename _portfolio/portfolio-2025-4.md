@@ -11,7 +11,7 @@ collection: portfolio
 **Project Period:** June-August 2025  
 
 **Overview**  
-This project implements a local Retrieval-Augmented Generation (RAG) pipeline tailored for healthcare content, with a focus on Alzheimer’s disease, related dementias (ADRD), and caregiving.  
+This project implements a local Retrieval-Augmented Generation (RAG) pipeline tailored for healthcare content, with a focus on Alzheimer’s disease, related dementias, and caregiving.  
 
 The system extracts transcripts from YouTube videos and web articles, filters potentially sensitive medical statements, chunks the content, builds a FAISS vector store, and enables domain-aware question answering using a fine-tuned Llama 8B model.  
 
@@ -36,4 +36,4 @@ Web crawling for data collection was completed by Arman, and Q&A dataset collect
 - Orchestrated end-to-end system integration for domain-aware healthcare question answering.  
 
 **Technical Stack**  
-Python, FAISS, Whisper, Llama 8B, Hugging Face, Sentence Transformers, Local LLM Inference  
+Python, FAISS, Llama 8B, Hugging Face, Sentence Transformers, Local LLM Inference  
