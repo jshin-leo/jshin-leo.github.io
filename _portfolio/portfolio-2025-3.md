@@ -1,6 +1,6 @@
 ---
 title: "Grant Research & Funding Strategy – MLCIC"
-excerpt: "Mike Loya Center for Innovation and Commerce, Spring 2025"
+excerpt: "Mike Loya Center for Innovation and Commerce, March-May 2025"
 collection: portfolio
 ---
 
@@ -8,7 +8,7 @@ collection: portfolio
 
 **Organization:** Mike Loya Center for Innovation and Commerce (MLCIC), UTEP  
 **Role:** Graduate Research Fellow  
-**Project Period:** Spring 2025  
+**Project Period:** March-May 2025  
 
 **Overview**  
 Conducted a comprehensive funding landscape analysis to identify grant and sponsorship opportunities supporting entrepreneurship education, student programs, and innovation initiatives at MLCIC.
