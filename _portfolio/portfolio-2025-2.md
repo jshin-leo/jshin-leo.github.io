@@ -1,6 +1,6 @@
 ---
 title: "Startup Venture Development & Pitch Mentorship – MLCIC"
-excerpt: "University of Texas at El Paso, Spring 2025"
+excerpt: "University of Texas at El Paso, February-April 2025"
 collection: portfolio
 ---
 
@@ -8,7 +8,7 @@ collection: portfolio
 
 **Organization:** Mike Loya Center for Innovation and Commerce (MLCIC), UTEP  
 **Role:** Graduate Research Fellow / Mentor  
-**Project Period:** February 2025 – April 2025  
+**Project Period:** February-April 2025  
 
 **Overview**  
 Provided hands-on venture mentorship to an early-stage startup focused on product development, business modeling, and competitive positioning within an academic entrepreneurship ecosystem.
