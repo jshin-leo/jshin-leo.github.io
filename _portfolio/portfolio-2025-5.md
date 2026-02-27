@@ -1,6 +1,6 @@
 ---
 title: "Faculty Spin-off Pipeline Analysis & Commercialization Strategy (OTC)"
-excerpt: "University of Texas at El Paso, Fall 2025"
+excerpt: "University of Texas at El Paso, September-November 2025 "
 collection: portfolio
 ---
 
