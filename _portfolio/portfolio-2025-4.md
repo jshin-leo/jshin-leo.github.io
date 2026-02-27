@@ -23,7 +23,7 @@ The system extracts transcripts from YouTube videos and web articles, filters po
 
 **My Contribution**  
 My GitHub repository serves as an independent implementation to deepen understanding of Retrieval-Augmented Generation pipelines. I developed most system components as a standalone project, including full pipeline orchestration and local deployment.  
-<img src="/images/LLM_for_Healthcare.png" alt="LLM for Healthcare RAG Pipeline" style="width:100%; max-width:800px; margin:20px 0;" />  
+<img src="/images/LLM for Healthcare.png" alt="LLM for Healthcare RAG Pipeline" style="width:100%; max-width:800px; margin:20px 0;" />  
 Web crawling for data collection was completed by Arman, and Q&A dataset collection was contributed by Emilia.  
 
 **Key Contributions**  
