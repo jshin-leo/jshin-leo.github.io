@@ -1,6 +1,6 @@
 ---
 title: "[CTU/UTEP] RedMorph: Characterizing the Challenges of Attacker Adaptation in Realistic Networks"
-excerpt: "Meta-Learning and Generalization in Realistic Network Topologies, June 2025–Present"
+excerpt: "University of Texas at El Paso, June 2025–Present"
 collection: portfolio
 ---
 
