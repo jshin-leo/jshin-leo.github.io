@@ -1,6 +1,6 @@
 ---
 title: "Domain-Aware Question Answering for Alzheimer’s Care using RAG and Fine-Tuned Llama 8B"
-excerpt: "Local Healthcare RAG Pipeline, June-August 2025"  
+excerpt: "University of Texas at El Paso, June-August 2025"  
 collection: portfolio
 ---
 
