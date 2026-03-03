@@ -54,11 +54,11 @@ Work experience
   - Managed end-to-end HR system operations, including employee data management, attendance and leave tracking, payroll processing, recruitment modules, and performance evaluation systems.
   - Designed, developed, and supported dashboards and reports from Oracle and SQL Server databases to enable operational reporting, audits, and data-informed decision making across business units.
   - Oversaw enterprise academic and training systems used by the Hyundai E&C Technical Training Center, ensuring smooth operation for employee training and course management in an academic-style institutional environment. 
-  - Major projects:  
+  - Major projects:
+    - Year-End Tax Reporting System Upgrade (12/2017 – 03/2018, 12/2018 – 03/2019, 12/2019 – 03/2020)  
     - Legal System Upgrade (06/2019 – 10/2019)  
     - Academic System (Hyundai E&C Technical Training Center) Upgrade (12/2017 – 03/2018)  
     - Legal Systems Integration (06/2016 – 12/2016)  
-    - Year-End Tax Reporting System Upgrade (12/2017 – 03/2018, 12/2018 – 03/2019, 12/2019 – 03/2020)  
 
 - **Intern**  
   <img src="/images/Hyundai_AutoEver_logo.png" alt="Hyundai AutoEver" width="30" style="vertical-align:middle; margin-right:6px;">&nbsp;**Hyundai AutoEver Corp.** | Seoul, South Korea  
