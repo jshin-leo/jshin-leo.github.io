@@ -50,11 +50,13 @@ Work experience
 - **Full-Stack Developer & Project Manager**  
   <img src="/images/Hyundai_AutoEver_logo.png" alt="Hyundai AutoEver" width="30" style="vertical-align:middle; margin-right:6px;">&nbsp;**Hyundai AutoEver Corp.** | Seoul, South Korea  
   *01/2016 – 06/2021*  
-  - Served as system administrator for six enterprise systems at Hyundai E&C, providing global technical support and managing C#/.NET web applications, databases, and SQL data extraction for HR, legal, and academic systems.
-  - Managed end-to-end HR system operations, including employee data management, attendance and leave tracking, payroll processing, recruitment modules, and performance evaluation systems.
-  - Designed, developed, and supported dashboards and reports from Oracle and SQL Server databases to enable operational reporting, audits, and data-informed decision making across business units.
-  - Oversaw enterprise academic and training systems used by the Hyundai E&C Technical Training Center, ensuring smooth operation for employee training and course management in an academic-style institutional environment. 
-  - Major projects:
+  - Served as system administrator for six enterprise systems at Hyundai E&C, providing global technical support and managing C#/.NET web applications, databases, and SQL data extraction for HR, legal, and academic systems.  
+  - Managed end-to-end HR system operations, including employee data management, attendance and leave tracking, payroll processing, recruitment modules, and performance evaluation systems.  
+  - Designed, developed, and supported dashboards and reports from Oracle and SQL Server databases to enable operational reporting, audits, and data-informed decision making across business units.  
+  - Oversaw enterprise academic and training systems used by the Hyundai E&C Technical Training Center, ensuring smooth operation for employee training and course management in an academic-style institutional environment.  
+  - Enterprise Systems Managed:  
+    Human Resource System (C#, .NET, Oracle Database); Payroll System (C#, .NET, Oracle Database); Recruiting System (ASP, ASP.NET, MS SQL Server); Legal Affairs System (C#, .NET, MS SQL Server); Corporate Social Responsibility System (ASP, ASP.NET, MS SQL Server); Academic Affairs System – Hyundai Technical Education Institute (ASP, MS SQL Server).  
+  - Major projects:  
     - Year-End Tax Reporting System Upgrade (12/2017 – 03/2018, 12/2018 – 03/2019, 12/2019 – 03/2020)  
     - Legal System Upgrade (06/2019 – 10/2019)  
     - Academic System (Hyundai E&C Technical Training Center) Upgrade (12/2017 – 03/2018)  
