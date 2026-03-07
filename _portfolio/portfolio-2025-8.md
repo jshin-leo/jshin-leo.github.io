@@ -1,17 +1,17 @@
 ---
-title: "[CTU/UTEP] RedMorph: Characterizing the Challenges of Attacker Adaptation in Realistic Networks"
+title: "[CTU/UNCUYO/UTEP] Evaluating Generalization Mechanisms in Autonomous Cyber Attack Agents"
 excerpt: "University of Texas at El Paso, June 2025–Present"
 collection: portfolio
 ---
 
-### [CTU/UTEP] RedMorph: Generalization and Adaptation of Autonomous Cyber Attack Agents  
+### [CTU/UNCUYO/UTEP] Evaluating Generalization Mechanisms in Autonomous Cyber Attack Agents   
 
-**Organizations:** Czech Technical University (CTU) & University of Texas at El Paso (UTEP)  
+**Organizations:** Czech Technical University (CTU), Universidad Nacional de Cuyo (UNCUYO), and University of Texas at El Paso (UTEP) 
 **Role:** Research Assistant – Meta-Reinforcement Learning Implementation  
 **Project Period:** June 2025–Present  
 
 **Overview**  
-RedMorph investigates the generalization problem of autonomous attacker agents in cybersecurity environments. The project examines how reinforcement learning agents adapt their learned policies when facing new, unseen network topologies in realistic cybersecurity simulations.  
+This project investigates the generalization problem of autonomous attacker agents in cybersecurity environments. It examines how reinforcement learning agents adapt their learned policies when facing new, unseen network topologies in realistic cybersecurity simulations.  
 
 The research focuses on:  
 - Data exfiltration attack scenarios  
