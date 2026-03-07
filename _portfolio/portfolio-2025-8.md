@@ -21,7 +21,7 @@ The research focuses on:
 **Official Repository:**  
 <a href="https://github.com/stratosphereips/RedMorph" target="_blank" rel="noopener noreferrer">https://github.com/stratosphereips/RedMorph</a>  
 
-This work is an international collaboration with CTU and is currently in manuscript preparation.  
+This work is an international collaboration with CTU & UNCUYO, and is currently in manuscript preparation.  
 
 ---
 
