@@ -55,11 +55,16 @@ Work experience
   - Designed, developed, and supported dashboards and reports from Oracle and SQL Server databases to enable operational reporting, audits, and data-informed decision making across business units.  
   - Oversaw enterprise academic and training systems used by the Hyundai E&C Technical Training Center, ensuring smooth operation for employee training and course management in an academic-style institutional environment.  
   - Enterprise Systems Managed:  
-    Human Resource System (C#, .NET, Oracle Database); Payroll System (C#, .NET, Oracle Database); Recruiting System (ASP, ASP.NET, MS SQL Server); Legal Affairs System (C#, .NET, MS SQL Server); Corporate Social Responsibility System (ASP, ASP.NET, MS SQL Server); Academic Affairs System – Hyundai Technical Education Institute (ASP, MS SQL Server).  
+    - Human Resource System — ASP.NET (.NET Framework), C#, Oracle Database  
+    - Payroll System — ASP.NET (.NET Framework), C#, Oracle Database  
+    - Recruiting System — Classic ASP, VBScript, Microsoft SQL Server  
+    - Legal Affairs System — ASP.NET (.NET Framework), C#, Microsoft SQL Server  
+    - Corporate Social Responsibility System — Classic ASP, VBScript, Microsoft SQL Server  
+    - Academic Affairs System (Hyundai Technical Education Institute) — Classic ASP, VBScript, Microsoft SQL Server  
   - Major projects:  
     - Year-End Tax Reporting System Upgrade (12/2017 – 03/2018, 12/2018 – 03/2019, 12/2019 – 03/2020)  
     - Legal System Upgrade (06/2019 – 10/2019)  
-    - Academic System (Hyundai E&C Technical Training Center) Upgrade (12/2017 – 03/2018)  
+    - Academic Affairs System (Hyundai E&C Technical Training Center) Upgrade (12/2017 – 03/2018)  
     - Legal Systems Integration (06/2016 – 12/2016)  
 
 - **Intern**  
