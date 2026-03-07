@@ -1,12 +1,12 @@
 ---
-title: "[CTU/UNCUYO/UTEP] Evaluating Generalization Mechanisms in Autonomous Cyber Attack Agents"
+title: "[CTU/UNCUYO/UTEP] Evaluating Generalization Mechanisms in Autonomous Cyber Attack Agents"  
 excerpt: "University of Texas at El Paso, June 2025–Present"
 collection: portfolio
 ---
 
-### [CTU/UNCUYO/UTEP] Evaluating Generalization Mechanisms in Autonomous Cyber Attack Agents   
+### [CTU/UNCUYO/UTEP] Evaluating Generalization Mechanisms in Autonomous Cyber Attack Agents     
 
-**Organizations:** Czech Technical University (CTU), Universidad Nacional de Cuyo (UNCUYO), and University of Texas at El Paso (UTEP) 
+**Organizations:** Czech Technical University (CTU), Universidad Nacional de Cuyo (UNCUYO), and University of Texas at El Paso (UTEP)   
 **Role:** Research Assistant – Meta-Reinforcement Learning Implementation  
 **Project Period:** June 2025–Present  
 
