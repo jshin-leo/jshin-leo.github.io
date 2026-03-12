@@ -2,6 +2,7 @@
 title: "Grant Research & Funding Strategy – MLCIC"
 excerpt: "Mike Loya Center for Innovation and Commerce, February-May 2025"
 collection: portfolio
+org_group: "Mike Loya Center for Innovation and Commerce, UTEP"  
 ---
 
 ### Grant Research & Funding Strategy – MLCIC  
