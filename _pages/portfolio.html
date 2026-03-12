@@ -8,9 +8,16 @@ author_profile: true
 
 {% include base_path %}
 
+{% assign sorted = site.portfolio | sort: "order" %}
 
-{% assign sorted = site.portfolio | sort: "date" | reverse %}
-{% for post in sorted %}
-  {% include archive-single.html %}
+{% assign groups = "Research Collaboration|University of Texas at El Paso|Mike Loya Center for Innovation and Commerce, UTEP|Hyundai Engineering & Construction|Hyundai AutoEver" | split: "|" %}
+
+{% for group in groups %}
+  {% assign group_posts = sorted | where: "org_group", group %}
+  {% if group_posts.size > 0 %}
+    <h2>{{ group }}</h2>
+    {% for post in group_posts %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endif %}
 {% endfor %}
-
