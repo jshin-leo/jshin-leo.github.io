@@ -22,14 +22,14 @@ Education
 
 Work experience
 ======
-- **Mike Loya Graduate Research Fellow**  
-  <img src="/images/UTEP_logo.png" alt="University of Texas at El Paso" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;**Mike Loya Center for Innovation and Commerce, University of Texas at El Paso** | Texas, United States  
-  *01/2025 – 12/2025*  
-  - Managed the center’s website using Cascade CMS, including content updates and structural revisions.
-  - Supported entrepreneurship programs and events (e.g., Miners Pitch Competition, Entrepreneur Talks), identified external grant opportunities, and collaborated with the Office of Technology Commercialization and faculty inventors to support innovation and commercialization.  
 
-  
-- **Graduate Research Assistant** (Concurrent role)  
+- **Machine Learning Research Collaborator**  
+  <img src="/images/UTEP_logo.png" alt="University of Texas at El Paso" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;**University of Texas at El Paso** | Texas, United States  
+  *01/2024 – Present* 
+  - Applied machine learning methods to counselor education and mental health research, contributing to **2 peer-reviewed publications**, **1 manuscript under review**, and **1 manuscript in preparation**.  
+  - Contributed to studies on AI/ML literacy in counselor education and training.  
+
+- **Graduate Research Assistant**     
   <img src="/images/UTEP_logo.png" alt="University of Texas at El Paso" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;**Security and Intelligence Lab** (Advisor: Dr. Aritran Piplai), **University of Texas at El Paso** | Texas, United States  
   *09/2024 – 12/2025*  
   - Designed and implemented machine learning and meta-learning pipelines to process, model, and analyze large datasets across cybersecurity and healthcare domains.
@@ -37,7 +37,14 @@ Work experience
     - Building Generalizable Models for Malware Detection using Meta-Learning (IEEE BigData 2024).
     - Meta-Reinforcement Learning for Cybersecurity: Developed a model-agnostic meta-learning-based attacker in dynamic simulation environments.
     - Healthcare RAG Pipeline: Built an end-to-end data workflow, including data preprocessing, feature engineering, model training, and evaluation, for the Llama-8B-based system to support families and caregivers of Alzheimer’s patients.
-    - AI for Counselor Education: Applied ML techniques in mixed-methods research and educational analytics. 
+
+- **Mike Loya Graduate Research Fellow** (Concurrent role)    
+  <img src="/images/UTEP_logo.png" alt="University of Texas at El Paso" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;**Mike Loya Center for Innovation and Commerce, University of Texas at El Paso** | Texas, United States  
+  *01/2025 – 12/2025*  
+  - Managed the center’s website using Cascade CMS, including content updates and structural revisions.
+  - Supported entrepreneurship programs and events (e.g., Miners Pitch Competition, Entrepreneur Talks), identified external grant opportunities, and collaborated with the Office of Technology Commercialization and faculty inventors to support innovation and commercialization.  
+
+  
 
 - **IT Manager**  
   <img src="/images/Hyundai_E&C_logo.png" alt="Hyundai E&C" width="30" style="vertical-align:middle; margin-right:6px;">&nbsp;**Hyundai Engineering & Construction (E&C)** | Seoul, South Korea  
