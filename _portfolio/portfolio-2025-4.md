@@ -2,6 +2,7 @@
 title: "AI & Machine Learning Foundations for Counselor Education"
 excerpt: "Journal of Counselor Preparation and Supervision & AARC Education Session, 2025"
 collection: portfolio
+org_group: "Research Collaboration"  
 ---
 
 ### Understanding Artificial Intelligence and Machine Learning: Foundational Concepts for Counselor Education  
