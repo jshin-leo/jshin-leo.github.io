@@ -1,7 +1,8 @@
 ---
 title: "Enhancing Counselor Education through AI Chatbots: A Mixed-Methods Study"
 excerpt: "Counselor Education Research Project, September-November 2025"
-collection: portfolio
+collection: portfolio  
+org_group: "Research Collaboration"  
 ---
 
 ### Enhancing Counselor Education through AI Chatbots: A Mixed-Methods Study  
