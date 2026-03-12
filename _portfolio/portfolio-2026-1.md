@@ -2,6 +2,7 @@
 title: "[CTU/UNCUYO/UTEP] Evaluating Generalization Mechanisms in Autonomous Cyber Attack Agents"  
 excerpt: "University of Texas at El Paso, June 2025–Present"
 collection: portfolio
+org_group: "University of Texas at El Paso"  
 ---
 
 ### [CTU/UNCUYO/UTEP] Evaluating Generalization Mechanisms in Autonomous Cyber Attack Agents     
