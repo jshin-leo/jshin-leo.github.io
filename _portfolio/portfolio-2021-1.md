@@ -2,6 +2,7 @@
 title: "HR System Evaluation and Modernization Initiative (HR Task Force)"
 excerpt: "Hyundai Engineering & Construction, June 2021 – May 2022"
 collection: portfolio
+org_group: "Hyundai Engineering & Construction"  
 ---
 
 ### HR System Evaluation and Modernization Initiative
