@@ -2,6 +2,7 @@
 title: "Graduate Coursework Projects – 2024"  
 excerpt: "M.S. in Computer Science, University of Texas at El Paso, Spring & Fall 2024"  
 collection: portfolio  
+org_group: "University of Texas at El Paso"  
 ---
 
 ### Graduate Coursework Projects – 2024
