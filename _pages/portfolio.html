@@ -15,16 +15,21 @@ author_profile: true
 <!-- Quick navigation -->
 <div style="margin-bottom: 1.5em;">
   <strong>Jump to:</strong>
+  <div style="margin-top:10px;">
   {% for group in groups %}
     {% assign anchor = group | slugify %}
-    <a href="#{{ anchor }}" style="margin-right: 12px;">{{ group }}</a>
+    <a href="#{{ anchor }}" style="display:block; margin:6px 0;">
+      {{ group }}
+    </a>
   {% endfor %}
+  </div>
 </div>
 
 {% for group in groups %}
   {% assign group_posts = sorted | where: "org_group", group | sort: "path" | reverse %}
   {% if group_posts.size > 0 %}
-    <h2>{{ group }}</h2>
+    {% assign anchor = group | slugify %}
+    <h2 id="{{ anchor }}">{{ group }}</h2>
     {% for post in group_posts %}
       {% include archive-single.html %}
     {% endfor %}
