@@ -2,6 +2,7 @@
 title: "Legal Affairs Systems Upgrade"
 excerpt: "Hyundai AutoEver, June 2019 – October 2019"
 collection: portfolio
+org_group: "Hyundai AutoEver"  
 ---
 
 
