@@ -2,6 +2,7 @@
 title: "Machine Learning Prediction of Depression Using ACEs and SDMH"
 excerpt: "Journal of Counseling & Development, September–December 2025"
 collection: portfolio
+org_group: "Research Collaboration"  
 ---
 
 ### Adverse Childhood Experiences and Social Determinants of Mental Health as Predictors of Adult Depression: A Machine Learning Approach  
