@@ -2,6 +2,7 @@
 title: "Legal Affairs Systems Integration"
 excerpt: "Hyundai AutoEver, June 2016 – December 2016"
 collection: portfolio
+org_group: "Hyundai AutoEver"
 ---
 
 ### Legal Affairs Systems Integration
