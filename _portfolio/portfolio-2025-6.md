@@ -2,6 +2,7 @@
 title: "Website Content Management – MLCIC"
 excerpt: "Mike Loya Center for Innovation and Commerce, Spring-Fall 2025"
 collection: portfolio
+org_group: "Mike Loya Center for Innovation and Commerce, UTEP"
 ---
 
 ### Website Content Management – MLCIC  
