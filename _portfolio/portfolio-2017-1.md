@@ -1,7 +1,8 @@
 ---
 title: "Hyundai E&C Technical Training Center - Academic Affairs System Upgrade "
 excerpt: "Hyundai AutoEver, December 2017 – March 2018"
-collection: portfolio
+collection: portfolio  
+org_group: "Hyundai AutoEver"
 ---
 
 ### Hyundai E&C Technical Training Center – Academic Affairs System Upgrade
