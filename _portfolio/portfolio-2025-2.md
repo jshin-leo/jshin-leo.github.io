@@ -2,7 +2,7 @@
 title: "Startup Venture Development & Pitch Mentorship – MLCIC"
 excerpt: "University of Texas at El Paso, February-April 2025"
 collection: portfolio
-org_group: "University of Texas at El Paso"  
+org_group: "Mike Loya Center for Innovation and Commerce, UTEP"  
 ---
 
 ### Startup Venture Development & Pitch Mentorship – MeasureMate  
