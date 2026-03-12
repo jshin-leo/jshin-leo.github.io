@@ -2,6 +2,7 @@
 title: "Startup Venture Development & Pitch Mentorship – MLCIC"
 excerpt: "University of Texas at El Paso, February-April 2025"
 collection: portfolio
+org_group: "University of Texas at El Paso"  
 ---
 
 ### Startup Venture Development & Pitch Mentorship – MeasureMate  
