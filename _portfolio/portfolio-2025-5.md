@@ -2,6 +2,7 @@
 title: "Faculty Spin-off Pipeline Analysis & Commercialization Strategy (OTC)"
 excerpt: "University of Texas at El Paso, September-November 2025 "
 collection: portfolio
+org_group: "Mike Loya Center for Innovation and Commerce, UTEP"
 ---
 
 ### Faculty Spin-off Pipeline Analysis & Commercialization Strategy  
