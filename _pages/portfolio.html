@@ -12,6 +12,15 @@ author_profile: true
 
 {% assign groups = "Research Collaboration|University of Texas at El Paso|Mike Loya Center for Innovation and Commerce, UTEP|Hyundai Engineering & Construction|Hyundai AutoEver" | split: "|" %}
 
+<!-- Quick navigation -->
+<div style="margin-bottom: 1.5em;">
+  <strong>Jump to:</strong>
+  {% for group in groups %}
+    {% assign anchor = group | slugify %}
+    <a href="#{{ anchor }}" style="margin-right: 12px;">{{ group }}</a>
+  {% endfor %}
+</div>
+
 {% for group in groups %}
   {% assign group_posts = sorted | where: "org_group", group | sort: "path" | reverse %}
   {% if group_posts.size > 0 %}
