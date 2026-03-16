@@ -1,6 +1,6 @@
 ---
 title: "[CTU/UNCUYO/UTEP] Evaluating Generalization Mechanisms in Autonomous Cyber Attack Agents"  
-excerpt: "University of Texas at El Paso, June 2025–Present"
+excerpt: "University of Texas at El Paso, June 2025–March 2026"
 collection: portfolio
 org_group: "University of Texas at El Paso"  
 ---
