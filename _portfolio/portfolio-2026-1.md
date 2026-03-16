@@ -19,6 +19,13 @@ The research focuses on:
 - Bridging the gap between theoretical RL assumptions and realistic network dynamics  
 - Comparing different adaptation and generalization strategies across learning paradigms  
 
+**Preprint:**  
+Lukáš, O., Shin, J., Rivas, E., Forni, D., Rigaki, M., Catania, C., Piplai, A., Kiekintveld, C., & Garcia, S. (2026).  
+*Evaluating Generalization Mechanisms in Autonomous Cyber Attack Agents.*  
+arXiv:2603.10041.  
+<a href="https://doi.org/10.48550/arXiv.2603.10041" target="_blank" rel="noopener noreferrer">https://doi.org/10.48550/arXiv.2603.10041</a>
+
+
 **Official Repository:**  
 <a href="https://github.com/stratosphereips/RedMorph" target="_blank" rel="noopener noreferrer">https://github.com/stratosphereips/RedMorph</a>  
 
