@@ -121,11 +121,11 @@ Professional Certifications
 ======
 - **IBM IT Project Manager Professional Certificate**, IBM  
   *03/2026*  
-  [Credential](https://coursera.org/share/bd5aa8b2f7be1e7105b6ae257256cdd7)  
+  <a href="https://coursera.org/share/bd5aa8b2f7be1e7105b6ae257256cdd7" target="_blank" rel="noopener noreferrer">Credential</a>    
 
 - **IBM Project Manager Professional Certificate**, IBM  
   *03/2026*  
-  [Credential](https://coursera.org/share/06cbc6330ba2feee73474c18ecf0d03c)  
+  <a href="https://coursera.org/share/06cbc6330ba2feee73474c18ecf0d03c" target="_blank" rel="noopener noreferrer">Credential</a>    
   
 - **Engineer Information Processing**, National Technical Qualification, South Korea  
   *10/2015*  
