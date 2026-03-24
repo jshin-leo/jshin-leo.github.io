@@ -119,5 +119,13 @@ Awards & Fellowships
 
 Professional Certifications  
 ======
+- **IBM IT Project Manager Professional Certificate**, IBM  
+  *03/2026*  
+  [Credential](https://coursera.org/share/bd5aa8b2f7be1e7105b6ae257256cdd7)  
+
+- **IBM Project Manager Professional Certificate**, IBM  
+  *03/2026*  
+  [Credential](https://coursera.org/share/06cbc6330ba2feee73474c18ecf0d03c)  
+  
 - **Engineer Information Processing**, National Technical Qualification, South Korea  
   *10/2015*  
