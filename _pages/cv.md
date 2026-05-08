@@ -13,7 +13,6 @@ Education
 ======
 * **M.S. in Computer Science**  
 <img src="/images/UTEP_logo.png" alt="University of Texas at El Paso" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;**University of Texas at El Paso**, Texas, United States  
-  *GPA: 4.0*  
   **December 2025**
 
 * **B.S. in Computer Engineering**  
