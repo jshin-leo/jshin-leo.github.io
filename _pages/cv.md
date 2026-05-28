@@ -22,6 +22,12 @@ Education
 Work experience
 ======
 
+- **Project Specialist**  
+  <img src="/images/Syracuse_logo.png" alt="Syracuse University" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;**Information Technology Services (ITS), Syracuse University** | Syracuse, New York, United States  
+  *08/2026 – Present*  
+  - Supporting technology initiatives and project within Syracuse University Information Technology Services.
+  - Collaborating with university stakeholders to advance technology solutions that support teaching, learning, research, and administrative operations.
+
 - **Machine Learning Research Collaborator**  
   <img src="/images/UTEP_logo.png" alt="University of Texas at El Paso" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;**University of Texas at El Paso** | Texas, United States  
   *01/2024 – Present* 
